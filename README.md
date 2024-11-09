@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Technical Writing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to work more and gain experience to improve my skills
-- 📫 How to reach me ...oyeninranolaoluwaemma@gmail.com
+- 📫 How to reach me at oyeninranolaoluwaemma@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
