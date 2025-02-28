@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yr-ola
-- 👀 I’m interested in Data Science and Technical Writing
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Oyeniran Olaoluwa
+- 👀 I’m interested in Data Science, Machine Learning and Technical Writing
+- 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to work more and gain experience to improve my skills
-- 📫 How to reach me at oyeninranolaoluwaemma@gmail.com
+- 📫 How to reach me: oyeninranolaoluwaemma@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
