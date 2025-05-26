@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oyeniran Olaoluwa
-- 👀 I’m interested in Data Science, Machine Learning and Technical Writing
-- 🌱 I’m currently learning python and sql
+- 👀 I’m interested in Data Science, Machine Learning and Backend development
+- 🌱 I’m currently learning machine learning and deep learning
 - 💞️ I’m looking to work more and gain experience to improve my skills
 - 📫 How to reach me: oyeninranolaoluwaemma@gmail.com
 - 😄 Pronouns: ...
